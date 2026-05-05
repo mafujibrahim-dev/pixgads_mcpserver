@@ -1,0 +1,2 @@
+# pixgads_mcpserver
+dfsf

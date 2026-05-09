@@ -1,2 +1,2 @@
 # pixgads_mcpserver
-dfsf
+mcpserver skills
